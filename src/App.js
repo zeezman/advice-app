@@ -33,30 +33,4 @@ import Email from "./Email";
  };
  
  export default App;
-  
-// https://official-joke-api.appspot.com/random_joke
-
-// advice api
-// https://api.adviceslip.com/advice
-// axios.get('/user?ID=12345')
-//   .then(function (response) {
-//     // handle success
-//     console.log(response);
-//   })
-//   .catch(function (error) {
-//     // handle error
-//     console.log(error);
-//   })
-//   .then(function () {
-//     // always executed
-//   });
-
-
-//   async function getUser() {
-//   try {
-//     const response = await axios.get('/user?ID=12345');
-//     console.log(response);
-//   } catch (error) {
-//     console.error(error);
-//   }
-// }
+    
