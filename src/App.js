@@ -26,11 +26,10 @@ import Email from "./Email";
           <button class="glow-on-hover" type="button" onClick={handleAdvice}>HOVER ME, THEN GET ADVICE!</button>
         </div>
       </div> 
-     
+       
          <Email />
        </div>     
    ) 
  };
  
  export default App;
-    
