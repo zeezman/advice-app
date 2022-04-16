@@ -27,7 +27,7 @@ import Email from "./Email";
         </div>
       </div> 
        
-         <Email />
+         {/* <Email /> */}
        </div>     
    ) 
  };
